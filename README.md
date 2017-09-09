@@ -16,6 +16,10 @@ The Processing Project List has a [section](https://github.com/processing/proces
 
 * [Hype Framework](http://www.hypeframework.org/) [[GitHub](https://github.com/hype/HYPE_Processing)]
 
+### Official Libraries
+
+* [Network](network)
+
 ### Sound
 
 * [[Sound]](sound)
@@ -73,9 +77,11 @@ At least version 3 has its own library. What are the pros and cons?
 * [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) (Shiffman) - with usage notes in [Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/) chapter of The Nature of Code
 * [Fisica](http://www.ricardmarxer.com/fisica/) - wrapper for JBox2D with more abstraction
 * [MSAFluid](http://memo.tv/archive/msafluid_for_processing_v1_3) related to OpenFrameworks [ofxMFAfluid](http://www.memo.tv/ofxmsafluid/). Note uses `javax.media.opengl` which was renamed to `com.jogamp.opengl`. Can't seem to get working, nor TUIO which is needed.
-* [diewald_fluid](http://thomasdiewald.com/processing/libraries/diewald_fluid/) - out of date?
+* [**PixelFlow**](http://thomasdiewald.com/processing/libraries/pixelflow/) - awesome looking library for fluid dynamics w/GPU support, incl. image processing probably particle systems (supports Processing 3, was [diewald_fluid](http://thomasdiewald.com/processing/libraries/diewald_fluid/) for Processing 2)
 * [AI for Games](http://www.lagers.org.uk/ai4g/index.html) - same developer and AI for Games and Shapes 3D.
-* [bRigid](http://www.lab-eds.org/bRigid) - jBullet, same dev as punktiert.
+* [bRigid](http://www.lab-eds.org/bRigid) - jBullet, same dev as punktiert
+* [Plethora](https://www.plethora-project.com/plethora-library/) - particle systems, but link dead, Jose Sanchez has nice video tutorials
+
 
 ### Collision Detection
 
